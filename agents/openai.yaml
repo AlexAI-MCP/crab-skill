@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crab"
+  short_description: "Build LocalCrab ontology packs"
+  default_prompt: "Use $crab to build a LocalCrab ontology pack from my source material."
