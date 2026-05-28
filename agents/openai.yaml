@@ -1,4 +1,6 @@
 interface:
   display_name: "Crab"
   short_description: "Build LocalCrab ontology packs"
+  icon_small: "./assets/logo.png"
+  icon_large: "./assets/logo.png"
   default_prompt: "Use $crab to build a LocalCrab ontology pack from my source material."

@@ -1,5 +1,9 @@
 # Crab Skill
 
+<p>
+  <img src="assets/logo.png" alt="OpenCrab logo" width="520">
+</p>
+
 Crab is a workflow skill for building high-quality LocalCrab/OpenCrab ontology packs from source material.
 
 It is designed for the [OpenCrab SaaS](https://opencrab.sh/) and [AlexAI-MCP/OpenCrab](https://github.com/AlexAI-MCP/OpenCrab) ecosystem: install the LocalCrab MCP server, invoke this skill from Codex or Claude Code, and use it as the operator guide for evidence-grounded ontology building.
